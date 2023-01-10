@@ -1,4 +1,4 @@
-package sadao;
+package sadao.Orchestra;
 
 public class Singer implements Musical {
 

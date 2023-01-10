@@ -1,6 +1,8 @@
-package sadao;
+package sadao.Orchestra;
 
-public class Guitar implements Musical{
+
+
+public class Guitar implements Musical {
 
     @Override
     public void play() {
