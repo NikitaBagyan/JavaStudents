@@ -13,6 +13,7 @@ public class Main {
         orchestra.addMusicants(new Drum());
         orchestra.addMusicants(new Bass());
         orchestra.addMusicants(new Piano());
+        orchestra.addMusicants(new Singer());
         orchestra.play();
 
     }
